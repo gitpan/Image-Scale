@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Image-Scale
-version:            0.01
+version:            0.02
 abstract:           Fast, high-quality fixed-point image resizing
 author:
     - Andy Grundman <andy@hybridized.org>
