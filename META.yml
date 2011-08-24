@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Image-Scale
-version:            0.06
+version:            0.07
 abstract:           Fast, high-quality fixed-point image resizing
 author:
     - Andy Grundman <andy@hybridized.org>
@@ -16,7 +16,7 @@ no_index:
     directory:
         - t
         - inc
-generated_by:       ExtUtils::MakeMaker version 6.54
+generated_by:       ExtUtils::MakeMaker version 6.56
 meta-spec:
     url:      http://module-build.sourceforge.net/META-spec-v1.4.html
     version:  1.4
